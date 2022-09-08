@@ -7,11 +7,10 @@ Desafio do curso FullCycle, módulo docker
   
 ### Para rodar
 ##### Dockerhub :whale:
-```docker pull vales1201/codeeducation
+```
+docker pull vales1201/codeeducation
 docker run vales1201/codeeducation
 ```
-<br/>
-
 ##### Diretamente :zap:
 ```
 git clone ...
